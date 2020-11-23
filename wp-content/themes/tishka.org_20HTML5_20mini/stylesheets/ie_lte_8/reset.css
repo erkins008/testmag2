@@ -1,0 +1,24 @@
+/* Reset css
+---------------------------------------------------------- */
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,fieldset,input,p,blockquote,table,th,td,caption,address,cite,code,dfn,em,strong,img,
+ul li,ol li,blockquote div,blockquote div p {
+	margin:0;
+	padding:0;
+	border:0;
+	background:none;
+	font-style:normal;
+	font-weight:normal;
+	letter-spacing:normal;
+	text-transform:none;
+	text-decoration:none;
+	width:auto;
+	word-spacing:normal;
+	font-size:100%;
+}
+table {
+	border-collapse:collapse;
+	border-spacing:0;
+}
+ol,ul {
+	list-style:none;
+}
